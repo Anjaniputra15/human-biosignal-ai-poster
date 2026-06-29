@@ -4,13 +4,6 @@ This repository publishes the 5-page IHPCSS 2026 poster **Compute-Efficient Toke
 
 The poster frames ECG as a demanding long-sequence AI testbed and presents Segment-Aware Quantisation (SAQ) as a compact representation strategy for calibrated transformer modelling. It highlights sequence compression, morphology preservation, calibration, robustness, transfer validation, and the path toward scalable HPC workflow packaging.
 
-## Live Links
-
-- Poster viewer: <https://anjaniputra15.github.io/human-biosignal-ai-poster/>
-- Direct PDF: <https://anjaniputra15.github.io/human-biosignal-ai-poster/IHPCSS.pdf>
-- HPC-ready PDF alias: <https://anjaniputra15.github.io/human-biosignal-ai-poster/hpc-ready-biosignal-ai-poster.pdf>
-- Compatibility PDF link: <https://anjaniputra15.github.io/human-biosignal-ai-poster/human-biosignal-ai-poster.pdf>
-- GitHub repository: <https://github.com/Anjaniputra15/human-biosignal-ai-poster>
 
 ## Poster Details
 
